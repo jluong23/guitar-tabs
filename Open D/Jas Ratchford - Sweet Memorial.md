@@ -1,4 +1,4 @@
-fCapo 5, key of G, open D tuning
+Capo 5, key of G, open D tuning
 
 Intro / Chorus / outro
 

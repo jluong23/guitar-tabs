@@ -1,3 +1,80 @@
+Capo 4, key of Gb, open D tuning
+
+Intro / verse
+
+| 0   | 0   | 0       |
+| --- | --- | ------- |
+| 0   | 0   | 0       |
+| 0h1 | 0   | 1       |
+| 0h2 | 0   | 2       |
+| 0   | 0   | 2 (0h2) |
+| 0   | 0   | 2       |
+| D   |     |         |
+
+Pre-chorus (and its cold here)
+
+| 0   | 0   | 0   |     |     |
+| --- | --- | --- | --- | --- |
+| 0   | 0   | 0   |     |     |
+| 5   | 0h5 | 5   | 5   | 7   |
+| 0   | 0h4 | 4   | 5   | 7   |
+| 5   | 0h0 | 0   | 0   | 0   |
+| 5   | 0h4 | 4   | 5   | 7   |
+| iv  | i   | ii  | iv  | v   |
+
+Chorus
+
+| 0   | 0   |     |     |     |
+| --- | --- | --- | --- | --- |
+| 0   | 0   |     |     |     |
+| 0h5 | 5   | 5   | 7   | x3  |
+| 0h4 | 4   | 5   | 7   |     |
+| 0h0 | 0   | 0   | 0   |     |
+| 0h4 | 4   | 5   | 7   |     |
+| i   | ii  | iv  | v   |     |
+
+| 0   | 0   |
+| --- | --- |
+| 0   | 0   |
+| 0h5 | 5   |
+| 0h4 | 4   |
+| 0h0 | 0   |
+| 0h4 | 4   |
+| i   | ii  |
+|     |     |
+| 0   | 0   |
+| 0   | 0   |
+| 0h1 | 0   |
+| 0h2 | 0   |
+| 0   | 0   |
+| 0   | 0   |
+| D   | D   |
+
+
+
+Bridge (middle 8)
+
+| 0   | 0   |           |
+| --- | --- | --------- |
+| 0   | 0   |           |
+| 0h1 | 1   |           |
+| 0h2 | 2   |           |
+| 0   | 0   |           |
+| 0   | 2   |           |
+| D   | ii  | x6 times? |
+
+| 0                         | 0   |     |                          |
+| ------------------------- | --- | --- | ------------------------ |
+| 0                         | 0   |     |                          |
+| 5                         | 0h5 | 5   | 7                        |
+| 5                         | 0h4 | 5   | 7                        |
+| 0                         | 0h0 | 0   | 0                        |
+| 5                         | 0h4 | 5   | 7                        |
+| iV (doesn't love me back) | i   | iv  | v (and it rains here...) |
+Then chorus
+
+Lyrics
+
 i hate the smell of the inside of a taxi
 but i hate the noises on the northern line more.
 i hate the river and the way it bends around me
@@ -19,6 +96,9 @@ i hate the way that the music ends so early
 it takes a while for me to loosen up my limbs
 i hate the morning when my molars still feel furry
 spent a small fortune just to not remember anything 
+
+it’s cold here in December
+and it’s colder in July
 
 I’m an optimistic person
 got my glass so full
