@@ -1,4 +1,5 @@
 Capo 5, key of G, open D tuning
+I find it easier to sing without a capo  
 
 Intro / Chorus / outro
 
