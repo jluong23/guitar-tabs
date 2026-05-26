@@ -1,5 +1,5 @@
 
-Drop C# tuning
+Drop D tuning
 
 Intro 
 
