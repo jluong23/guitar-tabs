@@ -9,7 +9,11 @@ Standard tuning
 | 7     | 7          | 2    | 7        | 7     | 2    |
 | 8     | 5 (thumb)  | 1    | 5        | 8     | 1    |
 | Cadd9 | Amaj7add9? | Fmaj | A power? | Cadd9 | Fmaj |
-Easier Cadd9 could be x3203x but timbre sounds lower on the record
+
+Easier Cadd9 could be x3203x but timbre sounds lower on the record.
+
+Also an easier Amaj7add9 is x0200x
+
 
 | x              | x   | x    | x    | x    | x    |
 | -------------- | --- | ---- | ---- | ---- | ---- |
