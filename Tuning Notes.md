@@ -1,26 +1,15 @@
-Standard to Open C
-EADGBE
-CGCGCE
+## Standard to Open D
+E A D G   B  E
+D A D F# A D
+(-1, 0, 0, -1/2, -1, -1)
 
-6: -2 steps
-5: -1 step
-4: -1 step
-3: same
-2: +1 half step
-1: same
-
-
-Standard to Open D
-
-EADGBE
-DADF#AD
-
-6: -1 step
-5: same
-4: same
-3: -1 half step
-2: -1 step
-1: -1 step
+## Standard to Open G
+E A D G B E
+D G D G B D
+(-1, -1, 0, 0, 0, -1)
 
 
-
+## Open G to Open D
+D G D G B D
+D A D F# A D
+(0, -1, 0, -1/2, +1, 0)
